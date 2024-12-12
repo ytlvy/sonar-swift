@@ -1,7 +1,7 @@
 #!/bin/bash
 #
-# backelite-sonar-swift-plugin - Enables analysis of Swift and Objective-C projects into SonarQube.
-# Copyright © 2015 Backelite (${email})
+# sonar-swift-plugin - Enables analysis of Swift and Objective-C projects into SonarQube.
+# Copyright © 2015 sonar-next (${email})
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Lesser General Public License as published by

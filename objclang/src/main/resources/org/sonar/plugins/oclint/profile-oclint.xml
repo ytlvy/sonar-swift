@@ -285,7 +285,11 @@
         </rule>
         <rule>
             <repositoryKey>OCLint</repositoryKey>
-            <key>kuwo collection check rule</key>
+            <key>kuwoCollectionCheckRule</key>
+        </rule>
+        <rule>
+            <repositoryKey>OCLint</repositoryKey>
+            <key>kwCollectionMatchRule</key>
         </rule>
     </rules>
 </profile>

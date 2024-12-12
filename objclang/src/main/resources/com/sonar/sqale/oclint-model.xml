@@ -644,7 +644,20 @@
             </chc>
             <chc>
                 <rule-repo>OCLint</rule-repo>
-                <rule-key>kuwo collection check rule</rule-key>
+                <rule-key>kuwoCollectionCheckRule</rule-key>
+                <prop>
+                    <key>remediationFunction</key>
+                    <txt>CONSTANT_ISSUE</txt>
+                </prop>
+                <prop>
+                    <key>offset</key>
+                    <val>10</val>
+                    <txt>min</txt>
+                </prop>
+            </chc>
+            <chc>
+                <rule-repo>OCLint</rule-repo>
+                <rule-key>kwCollectionMatchRule</rule-key>
                 <prop>
                     <key>remediationFunction</key>
                     <txt>CONSTANT_ISSUE</txt>

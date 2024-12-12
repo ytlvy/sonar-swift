@@ -563,10 +563,18 @@ Summary: Name: missing abstract method implementation
 Severity: 1
 Category: OCLint
 
-kuwo collection check rule
+kuwoCollectionCheckRule
 ----------
 
-Summary: Name: kuwo collection check rule
+Summary: Name: kuwoCollectionCheckRule
+
+Severity: 1
+Category: OCLint
+
+kwCollectionMatchRule
+----------
+
+Summary: Name: kwCollectionMatchRule
 
 Severity: 1
 Category: OCLint
