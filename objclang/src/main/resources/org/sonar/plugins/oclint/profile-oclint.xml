@@ -289,7 +289,7 @@
         </rule>
         <rule>
             <repositoryKey>OCLint</repositoryKey>
-            <key>kwCollectionMatchRule</key>
+            <key>kuwoCollectionMatchRule</key>
         </rule>
     </rules>
 </profile>

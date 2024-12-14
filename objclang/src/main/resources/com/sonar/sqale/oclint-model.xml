@@ -657,7 +657,7 @@
             </chc>
             <chc>
                 <rule-repo>OCLint</rule-repo>
-                <rule-key>kwCollectionMatchRule</rule-key>
+                <rule-key>kuwoCollectionMatchRule</rule-key>
                 <prop>
                     <key>remediationFunction</key>
                     <txt>CONSTANT_ISSUE</txt>

@@ -571,10 +571,10 @@ Summary: Name: kuwoCollectionCheckRule
 Severity: 1
 Category: OCLint
 
-kwCollectionMatchRule
+kuwoCollectionMatchRule
 ----------
 
-Summary: Name: kwCollectionMatchRule
+Summary: Name: kuwoCollectionMatchRule
 
 Severity: 1
 Category: OCLint
