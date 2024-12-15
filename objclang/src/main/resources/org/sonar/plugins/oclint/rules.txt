@@ -568,7 +568,7 @@ kuwoCollectionCheckRule
 
 Summary: Name: kuwoCollectionCheckRule
 
-Severity: 1
+Severity: 3
 Category: OCLint
 
 kuwoCollectionMatchRule
@@ -576,5 +576,21 @@ kuwoCollectionMatchRule
 
 Summary: Name: kuwoCollectionMatchRule
 
+Severity: 3
+Category: OCLint
+
+compiler warning
+----------
+
+Summary: Name: compiler warning
+
 Severity: 1
+Category: OCLint
+
+compiler error
+----------
+
+Summary: Name: compiler error
+
+Severity: 3
 Category: OCLint

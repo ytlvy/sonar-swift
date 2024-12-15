@@ -291,5 +291,13 @@
             <repositoryKey>OCLint</repositoryKey>
             <key>kuwoCollectionMatchRule</key>
         </rule>
+        <rule>
+            <repositoryKey>OCLint</repositoryKey>
+            <key>compiler error</key>
+        </rule>
+        <rule>
+            <repositoryKey>OCLint</repositoryKey>
+            <key>compiler warning</key>
+        </rule>
     </rules>
 </profile>
