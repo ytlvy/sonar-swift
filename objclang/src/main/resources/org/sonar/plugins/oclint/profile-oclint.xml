@@ -293,6 +293,14 @@
         </rule>
         <rule>
             <repositoryKey>OCLint</repositoryKey>
+            <key>kuwoPropertyRule</key>
+        </rule>
+        <rule>
+            <repositoryKey>OCLint</repositoryKey>
+            <key>kuwoSameTypeRule</key>
+        </rule>
+        <rule>
+            <repositoryKey>OCLint</repositoryKey>
             <key>compiler error</key>
         </rule>
         <rule>

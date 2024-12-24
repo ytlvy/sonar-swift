@@ -657,6 +657,32 @@
             </chc>
             <chc>
                 <rule-repo>OCLint</rule-repo>
+                <rule-key>kuwoPropertyRule</rule-key>
+                <prop>
+                    <key>remediationFunction</key>
+                    <txt>CONSTANT_ISSUE</txt>
+                </prop>
+                <prop>
+                    <key>offset</key>
+                    <val>10</val>
+                    <txt>min</txt>
+                </prop>
+            </chc>
+            <chc>
+                <rule-repo>OCLint</rule-repo>
+                <rule-key>kuwoSameTypeRule</rule-key>
+                <prop>
+                    <key>remediationFunction</key>
+                    <txt>CONSTANT_ISSUE</txt>
+                </prop>
+                <prop>
+                    <key>offset</key>
+                    <val>10</val>
+                    <txt>min</txt>
+                </prop>
+            </chc>
+            <chc>
+                <rule-repo>OCLint</rule-repo>
                 <rule-key>compiler error</rule-key>
                 <prop>
                     <key>remediationFunction</key>

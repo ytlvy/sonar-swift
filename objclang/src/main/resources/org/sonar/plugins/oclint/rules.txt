@@ -594,3 +594,19 @@ Summary: Name: compiler error
 
 Severity: 3
 Category: OCLint
+
+kuwoPropertyRule
+----------
+
+Summary: Name: kuwoPropertyRule
+
+Severity: 3
+Category: OCLint
+
+kuwoSameTypeRule
+----------
+
+Summary: Name: kuwoSameTypeRule
+
+Severity: 3
+Category: OCLint
